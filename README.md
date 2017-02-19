@@ -1,2 +1,3 @@
 # hello-world
-Learning how to configure and use Github
+
+I am Puseletso Mosia and I want to learn how to use Github
